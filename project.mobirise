@@ -170,12 +170,14 @@
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Download for Windows</a>",
           "media1": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont",
+              "linkInNewWindow": false,
               "name": "mobile",
-              "link": "https://mobirise.com",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "page1.html",
               "size": 40,
-              "family": "MobiriseIcons"
+              "newWindow": false
             }
           },
           "title1": "What is Mobirise",
