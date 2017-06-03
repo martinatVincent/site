@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Mon site perso",
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "directm",
       "title": "DirectM",
