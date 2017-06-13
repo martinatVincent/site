@@ -580,6 +580,10 @@ a:hover {
 #menu1-2 .dropdown-item[aria-expanded="true"] {
   color: #5aac98!important;
 }
+#slider-n .mbr-section-title,
+#slider-n .mbr-section-text {
+  color: #fff;
+}
 #header1-4 .mbr-iconfont {
   color: #fff;
   border-color: #fff;
@@ -701,4 +705,12 @@ a:hover {
 #features16-k .mbr-iconfont {
   background: #5aac98;
   border-color: #5aac98;
+}
+#content5-l .mbr-section-title,
+#content5-l .mbr-section-subtitle {
+  margin-bottom: 1rem;
+  color: #ffffff;
+}
+#content5-l .mbr-table-cell {
+  vertical-align: middle;
 }
