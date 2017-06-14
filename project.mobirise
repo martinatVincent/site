@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 34,
+    "uniqCompNum": 42,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
@@ -169,7 +169,7 @@
                 "overlayOpacity": "0.1",
                 "contentAlign": "center",
                 "showTitle": true,
-                "title": "Une offre locale et sur mesure pour les Très Petites Entreprises&nbsp;",
+                "title": "<b>Une offre locale et sur mesure pour les Très Petites Entreprises&nbsp;</b>",
                 "showText": true,
                 "text": "Tous les professionnels ont maintenant un accompagnement de proximité pour accéder au monde numérique.",
                 "showButtons": true,
@@ -185,9 +185,9 @@
                 "overlayColor": "#000000",
                 "contentAlign": "center",
                 "showTitle": true,
-                "title": "<b>&lt;Coding_Studio/&gt;.fr</b>",
+                "title": "<b>Un Studio de transformation numérique</b><br><b>&lt;Coding_Studio/&gt;.fr</b>",
                 "showText": true,
-                "text": "STUDIO DE TRANSFORMATION NUMÉRIQUE<br>Et si vous passiez&nbsp;<br>de l’idée au produit?",
+                "text": "<br>Et si vous passiez&nbsp;<br>de l’idée au produit?",
                 "showButtons": true,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://codingstudio.fr/\" data-toolbar=\"-mbrBtnMove\">En savoir plus</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Contact</a>"
               },
@@ -200,9 +200,9 @@
                 "overlayOpacity": "0.3",
                 "contentAlign": "center",
                 "showTitle": true,
-                "title": "Trouver les bons outils&nbsp;",
+                "title": "Besoin d'un autre regard&nbsp;",
                 "showText": true,
-                "text": "La croissance connectée ne se fait pas sans visibilité 360° - InBound Marketing",
+                "text": "La croissance connectée par la visibilité 360° - InBound Marketing",
                 "showButtons": true,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">En savoir plus</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Contact</a>"
               }
@@ -213,6 +213,66 @@
           },
           "_anchor": "slider-o",
           "articleLayout": false
+        },
+        {
+          "form": {
+            "action": "offres@vincentmartinat.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "email": {
+                "title": "Email",
+                "customTitle": "Enter Your Email"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header8",
+          "_anchor": "header8-11",
+          "_params": {
+            "imageSize": "100",
+            "containerColor1": "#d57df7",
+            "containerColor2": "#2a1669",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/2017-06-2000x1333.jpg",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "showImage": true,
+            "showTitle": false,
+            "showText": false,
+            "showButton": false,
+            "showArrow": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/copie-de-podium-14-06-17-1400x787.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "Header With Image",
+          "text": "Full-screen intro with image at the top. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel sunt, neque voluptatibus excepturi laboriosam possimus adipisci quidem dolores omnis, nemo dolore eligendi blanditiis voluptatem in, doloribus hic aperiam maiores fugit.",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Learn more</a>"
         },
         {
           "media1": {
@@ -390,7 +450,7 @@
             "formHeader": false,
             "showCheckbox": true
           },
-          "title": "Send your suggestions",
+          "title": "Vous pouvez avez un besoin",
           "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates, sed iusto corrupti explicabo. Dignissimos, harum. Adipisci dolorem odit minima assumenda nostrum quam nihil, iusto, ad eligendi laudantium doloribus eius reiciendis.",
           "form": {
             "action": "offres@vincentmartinat.com",
@@ -428,18 +488,17 @@
             "Theme"
           ],
           "_name": "share2",
-          "_anchor": "share2-w",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgImageRadio": false,
-            "parallax": false,
             "bgImage": "@PROJECT_PATH@/assets/images/01.jpg",
-            "bgColor": "#fff",
+            "parallax": false,
             "bgColorRadio": true,
+            "bgColor": "#fff",
             "overlay": true,
-            "overlayOpacity": 0.9,
-            "overlayColor": "#fff"
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.9
           },
           "text": "+33769645692",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Call us</a>",
@@ -448,7 +507,33 @@
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": "",
-          "_customTemplate": true
+          "_customTemplate": true,
+          "_anchor": "share2-w"
+        },
+        {
+          "_styles": {
+            "p": {
+              "color": "#000"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer4",
+          "_anchor": "footer4-12",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/01.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Martinat Vincent."
         }
       ]
     },
@@ -535,7 +620,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo2.png",
+              "src": "@PROJECT_PATH@/assets/images/logo0.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com"
